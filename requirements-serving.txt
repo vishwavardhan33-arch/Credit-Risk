@@ -1,0 +1,10 @@
+# Minimal runtime for the API image. Versions are pinned because the model is a joblib pickle:
+# lightgbm / scikit-learn / pandas must match the versions used for training (the Colab environment).
+# Check them in Colab with:  import lightgbm, sklearn, pandas; print(lightgbm.__version__, sklearn.__version__, pandas.__version__)
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+pandas==2.2.3
+lightgbm==4.6.0
+scikit-learn==1.6.1
+joblib==1.4.2

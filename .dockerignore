@@ -1,0 +1,12 @@
+data/
+models/
+notebooks/
+reports/
+tests/
+docs/
+mlflow.db
+mlruns/
+logs/
+.git/
+.venv/
+**/__pycache__/

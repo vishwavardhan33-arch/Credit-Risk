@@ -1,0 +1,17 @@
+# Development / training / monitoring (everything the notebooks, scripts and tests need)
+pandas
+numpy
+pyarrow
+scikit-learn
+lightgbm
+xgboost
+shap
+matplotlib
+seaborn
+jupyter
+mlflow
+fastapi
+uvicorn
+httpx
+joblib
+pytest

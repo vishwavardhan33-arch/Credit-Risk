@@ -1,0 +1,17 @@
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+models/*
+!models/.gitkeep
+mlflow.db
+mlruns/
+mlflow_runs/
+logs/
+reports/*.csv
+reports/*.html
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+models_nogender/
