@@ -165,6 +165,7 @@ More detail on the API, monitoring thresholds and the retraining plan is in [`do
 - **The prediction log contains applicant data;** decide retention and access rules before using it outside a demo.
 - This is a learning and portfolio project on a public dataset, not a production credit decision system.
 
----
+---<img width="440" height="408" alt="Screenshot 2026-10-14 114145" src="https://github.com/user-attachments/assets/8c3ac05c-ffb3-485d-91e9-af50e9c0936a" />
+
 
 Built by Doni Vishwa Vardhan. Data: Home Credit Group via Kaggle, used under the competition rules.
